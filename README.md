@@ -6,7 +6,7 @@ Takes an area of the desktop and sends it to a pixelpacket server.
 
 Instructions
 ------------
-Import the project in Visual Studio and run the code. (Or go to the WindowsApplication1\bin\Debug folder and grab ScreenPixelator.exe to get the latest stable build)
+Import the project in Visual Studio and run the code.
 
 You can use the X and Y number boxes to set the size of your display.
 
